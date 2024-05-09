@@ -1,0 +1,23 @@
+.header {
+  width: 100%;
+  background: rgb(208, 208, 208);
+  position: sticky;
+  top: 0;
+
+  .container {
+    display: flex;
+    justify-content: center;
+
+    .navigation {
+      height: 60px;
+      display: flex;
+      align-items: center;
+      border: 1px solid red;
+
+      menu {
+        display: flex;
+        gap: 1rem;
+      }
+    }
+  }
+}

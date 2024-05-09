@@ -1,0 +1,20 @@
+.banner{
+  background: green;
+
+  .container{
+    display: flex;
+    
+    .l-side{
+      height: 350px;
+      background: rgb(200, 102, 102);
+      flex-grow: 1;
+    }
+
+    .r-side{
+      height: 350px;
+      background: lightgray;
+      flex-grow: 1;
+    }
+  }
+}
+

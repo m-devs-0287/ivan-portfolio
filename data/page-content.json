@@ -1,0 +1,56 @@
+{
+	"banner": {
+		"name": "Ivan Rodriguez",
+		"title": "Web Developer",
+		"Description": "A programming enthusiast with a strong passion for web development and experience in working with trending technologies such as ReactJS, Typescript, SQL, NoSQL, and .NET Framework"
+	},
+	"education": {
+		"Dallas College": {
+			"title": "AS - Computer Programming",
+			"description": "Understand the fundamentals of computer programming, some courses included JAVA for low-level programming and MySQL for data persistence",
+			"dates": "2019 - 2023"
+		},
+		"GenerationUSA": {
+			"title": "Web Development Program",
+			"description": "Learn web development from scratch, collaborate with classmates in the cohort to implement agile software development methodology and build fully responsive and interactive web applications ",
+			"dates": "2021 - 2022"
+		},
+		"Codecademy": {
+			"title": " Code Foundation, Bash, Git & Github, Javascript, .Net Core",
+			"description": "Improve web development skills, these technologies are widely used in the corporate realm",
+			"dates": "2021 - 2022"
+		},
+		"Udemy": {
+			"title": "Full Stack Web Development Bootcamp",
+			"description": "Learn the MERN stack (MongoDB, ExpressJS, ReactJS, NodeJS) to build full stack web applications and deploy to a linux server",
+			"dates": "2021 - 2022"
+		},
+		"General Assembly": {
+			"title": "Web Development",
+			"description": "Learn web foundation, HTML, CSS and JavaScript",
+			"dates": "2018"
+		}
+	},
+	"work-experience": {
+		"Hyland Software": {
+			"title": "Developer 1",
+			"modules": {
+				"Icon Library": "Design and develop custom svg react components for a dynamic page builder",
+				"Rich text editor": "Build a custom text editor functionalities such as tokens which dynamically change based on the document context and a limited font-color selection",
+				"Testing": "Create a manual testing documentation for automated end-to-end tests using Playwrite",
+				"Migration Tool": "Develop a full stack web utility using ReactJS, Material UI, Overmind,  Typescript, .NET Core and F#. Decreasing the migration time by 90% of 14 different settings"
+			}
+		},
+		"Hitab Software": {
+			"title": "Web Developer",
+			"Projects": {
+				"Capital Appraisal Services Website": [
+					"Redesign wwww.capitalappraisal.net, using html, css, scss and javascript to improve the user experience",
+					"Build a responsive and device-friendly user interface",
+					"Develop a backend that handles customer appraisal requests, and uses a proxy user to send emails to the company's office",
+					"Deploy the website to a linux server, using SSL certificate to secure http data transfer"
+				]
+			}
+		}
+	}
+}
